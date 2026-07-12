@@ -1,12 +1,7 @@
 <div align="center">
-<pre>
-                *
-              *****
-            *********
-              *****
-                *
-        ·  ·  ·  ·  ·
-</pre>
+
+⋆.ೃ࿔*:･ ૮꒰˶ˆ ᵕ ˆ˶꒱ა *ੈ✩‧₊˚
+
 </div>
 
 <sub><code>KYLIE_CLEMENTE.DEV</code> &nbsp;›&nbsp; <code>README.md</code></sub>
