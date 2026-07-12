@@ -18,9 +18,11 @@ kylie_clemente/
 ```json
 {
   "frontend": ["html", "css", "javascript", "typescript", "react", "react_native"],
-  "backend": ["php", "postgresql", "neondb", "mongodb"],
+  "backend": ["php", "postgresql", "neondb", "mongodb", "mysql"],
   "automation": ["gohighlevel", "make.com"],
-  "tools": ["git", "wordpress", "railway", "postman", "claude_code"]
+  "design": ["canva"],
+  "tools": ["git", "wordpress", "railway", "postman", "claude_code"],
+  "comms": ["slack", "discord"]
 }
 ```
 
@@ -77,17 +79,16 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
 
 </div>
 
-˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡
-
 <div align="right">
 
-⠀⠀⣤⣤⣤⣤⠄⠀⠀⠀⠀⠀⢤⣤⣤⣤⡄⠀
-⠀⢰⣿⣿⠟⢁⣀⣤⣤⣤⣤⣄⣀⠙⢿⣿⣷⠀
-⠀⣼⠟⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡙⢿⡄
-⠀⢁⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠁
-⠀⠸⠿⢿⠛⢿⣿⠟⢻⣿⠛⢿⣿⠟⢻⠿⢿⠀
-⠀⠘⠿⢿⣷⣤⣤⡴⡻⣿⣷⣤⣤⣴⣿⠿⠗⠀
-⠀⠀⠈⠻⣿⣿⣿⣵⣷⣽⣿⣿⣿⣿⡿⠋⠀⠀
-⠀⠀⠀⠀⠈⠙⠛⠿⠿⠿⠿⠟⠛⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⣼⣿⡗⠀⠀⠀⠀
+⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
+⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣤⣤⣤⣤⣤⣿⢿⣄⠀⠀⠀⠀
+⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠙⣷⡴⠶⣦
+⠀⠀⢱⡀⠀⠉⠉⠀⠀⠀⠀⠛⠃⠀⢠⡟⠀⠀⠀⢀⣀⣠⣤⠿⠞⠛⠋
+⣠⠾⠋⠙⣶⣤⣤⣤⣤⣤⣀⣠⣤⣾⣿⠴⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀
+⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 </div>
