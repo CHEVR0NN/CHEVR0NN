@@ -1,15 +1,12 @@
 <div align="center">
-
-```text
+<pre>
                 *
               *****
             *********
               *****
                 *
-
         ·  ·  ·  ·  ·
-```
-
+</pre>
 </div>
 
 <sub><code>KYLIE_CLEMENTE.DEV</code> &nbsp;›&nbsp; <code>README.md</code></sub>
@@ -90,8 +87,7 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
 </div>
 
 <div align="right">
-
-```text
+<pre>
         z Z Z
       |\---/|
       | -.- |
@@ -99,6 +95,5 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
      ___/ `   ' ,""+ \
     (__...'   __\    |`.___.';
       (_,...'(_,.`__)/'.....+
-```
-
+</pre>
 </div>
