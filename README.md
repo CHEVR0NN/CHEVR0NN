@@ -1,9 +1,3 @@
-<div align="center">
-
-⋆.ೃ࿔*:･ ૮꒰˶ˆ ᵕ ˆ˶꒱ა *ੈ✩‧₊˚
-
-</div>
-
 <sub><code>KYLIE_CLEMENTE.DEV</code> &nbsp;›&nbsp; <code>README.md</code></sub>
 
 ```text
@@ -79,12 +73,8 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
 
 <div align="center">
 
-[mail] (mailto:clementeky@gmail.com) · [git] (https://github.com/CHEVR0NN) · [linkedin] (https://linkedin.com/in/kylie-clemente)
+[mail](mailto:clementeky@gmail.com) · [git](https://github.com/CHEVR0NN) · [linkedin](https://linkedin.com/in/kylie-clemente)
 
 </div>
 
-<div align="right">
-
-₍ᔥ.˛.ᔥ₎ zzZ
-
-</div>
+˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ˚ ⋆｡ ₊˚ʚ₍ᐢ. ̫ .ᐢ₎ɞ˚₊ᶻ𝗓z
