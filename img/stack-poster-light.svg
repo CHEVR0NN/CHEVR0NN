@@ -1,0 +1,39 @@
+<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2C6E9E" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#2C6E9E" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      text { font-family: Helvetica, Arial, sans-serif; font-weight: 800; }
+    </style>
+  </defs>
+
+  <rect width="900" height="400" fill="#FFFFFF"/>
+  <circle cx="260" cy="140" r="260" fill="url(#glow)"/>
+
+  <text x="40"  y="90"  font-size="60" fill="#0891B2">REACT</text>
+  <text x="270" y="90"  font-size="44" fill="#3178C6" transform="rotate(-3 270 90)">TYPESCRIPT</text>
+
+  <text x="40"  y="160" font-size="56" fill="#B7950B">JAVASCRIPT</text>
+  <text x="430" y="160" font-size="30" fill="#0891B2" transform="rotate(3 430 160)">REACT NATIVE</text>
+
+  <text x="40"  y="220" font-size="34" fill="#335C99">POSTGRESQL</text>
+  <text x="290" y="220" font-size="34" fill="#3FA037" transform="rotate(-2 290 220)">MONGODB</text>
+  <text x="480" y="220" font-size="30" fill="#E34F26" transform="rotate(2 480 220)">HTML</text>
+
+  <text x="40"  y="270" font-size="28" fill="#1572B6">CSS</text>
+  <text x="130" y="270" font-size="26" fill="#6659B0" transform="rotate(-2 130 270)">PHP</text>
+  <text x="220" y="270" font-size="26" fill="#D6432A" transform="rotate(2 220 270)">GIT</text>
+  <text x="300" y="270" font-size="24" fill="#1B1F23">RAILWAY</text>
+
+  <text x="40"  y="315" font-size="22" fill="#21759B" transform="rotate(-2 40 315)">WORDPRESS</text>
+  <text x="220" y="315" font-size="22" fill="#E85A2A" transform="rotate(2 220 315)">POSTMAN</text>
+  <text x="360" y="315" font-size="20" fill="#2C6E9E" transform="rotate(-3 360 315)">GOHIGHLEVEL</text>
+  <text x="560" y="315" font-size="20" fill="#8B2FC9" transform="rotate(4 560 315)">MAKE.COM</text>
+
+  <text x="40"  y="355" font-size="20" fill="#00A876">NEONDB</text>
+  <text x="180" y="355" font-size="22" fill="#C25F41" transform="rotate(-2 180 355)">CLAUDE CODE</text>
+
+  <text x="40" y="388" font-size="13" font-weight="400" font-family="SFMono-Regular, Menlo, Consolas, monospace" fill="#57606A">kylie clemente &#183; junior web developer &#183; naga city, ph</text>
+</svg>
