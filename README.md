@@ -1,3 +1,17 @@
+<div align="center">
+
+```text
+                *
+              *****
+            *********
+              *****
+                *
+
+        ·  ·  ·  ·  ·
+```
+
+</div>
+
 <sub><code>KYLIE_CLEMENTE.DEV</code> &nbsp;›&nbsp; <code>README.md</code></sub>
 
 ```text
@@ -73,4 +87,18 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
 
 <div align="center">
 <sub>[mail](mailto:clementeky@gmail.com) · [git](https://github.com/CHEVR0NN) · [linkedin](https://linkedin.com/in/kylie-clemente)</sub>
+</div>
+
+<div align="right">
+
+```text
+        z Z Z
+      |\---/|
+      | -.- |
+       \_`_/-..----.
+     ___/ `   ' ,""+ \
+    (__...'   __\    |`.___.';
+      (_,...'(_,.`__)/'.....+
+```
+
 </div>
