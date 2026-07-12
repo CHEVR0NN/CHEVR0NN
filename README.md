@@ -78,17 +78,13 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
 <br/>
 
 <div align="center">
-<sub>[mail](mailto:clementeky@gmail.com) · [git](https://github.com/CHEVR0NN) · [linkedin](https://linkedin.com/in/kylie-clemente)</sub>
+
+[mail] (mailto:clementeky@gmail.com) · [git] (https://github.com/CHEVR0NN) · [linkedin] (https://linkedin.com/in/kylie-clemente)
+
 </div>
 
 <div align="right">
-<pre>
-        z Z Z
-      |\---/|
-      | -.- |
-       \_`_/-..----.
-     ___/ `   ' ,""+ \
-    (__...'   __\    |`.___.';
-      (_,...'(_,.`__)/'.....+
-</pre>
+
+₍ᔥ.˛.ᔥ₎ zzZ
+
 </div>
