@@ -1,58 +1,92 @@
-<div align="center">
+```text
+> booting kylie_clemente.dev ...
+[ok] loading identity
+[ok] loading stack (16 modules)
+[warn] scope_estimates.dll corrupted, using fallback (see: ps aux, below)
+[ok] system ready. 1 process still running from previous session.
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1200&color=8ECFF5&center=true&vCenter=true&width=480&lines=Developer.;Designer.;Builder." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1200&color=2C6E9E&center=true&vCenter=true&width=480&lines=Developer.;Designer.;Builder." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1200&color=2C6E9E&center=true&vCenter=true&width=480&lines=Developer.;Designer.;Builder." alt="Developer. Designer. Builder." />
-</picture>
+```text
+kylie@dev:~$ whoami
 
-<br/><br/>
+kylie_clemente
+role      : junior web developer
+location  : naga city, ph
+uptime    : since may 2026
+```
 
-<sub><b>FRONTEND</b></sub>
-<br/>
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+```text
+kylie@dev:~$ ./load_stack.sh
 
-<br/><br/>
+[ok] html          [ok] css           [ok] javascript
+[ok] typescript    [ok] react         [ok] react_native
+[ok] php           [ok] postgresql    [ok] neondb
+[ok] mongodb       [ok] gohighlevel   [ok] make.com
+[ok] wordpress     [ok] git           [ok] railway
+[ok] claude_code   [ok] postman
 
-<sub><b>BACKEND & DATA</b></sub>
-<br/>
-![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
-![NeonDB](https://img.shields.io/badge/NeonDB-161B22?style=flat-square&logo=neon&logoColor=00E599)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
+16 modules loaded, 0 failed
+```
 
-<br/><br/>
+<details>
+<summary><code>kylie@dev:~$ cat /var/log/work_experience.log</code></summary>
 
-<sub><b>AUTOMATION & CRM</b></sub>
-<br/>
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-161B22?style=flat-square)
-![Make](https://img.shields.io/badge/Make.com-161B22?style=flat-square&logo=make&logoColor=6D00CC)
+```text
+[2026-05-01] job started: digital benefits pte. ltd. (junior web developer)
+[2026-05-03] task: automate appointment scheduling, recreation club client
+            > result: 50+ bookings/day handled, coordination time down 60 to 70%
+[2026-05-14] task: deploy chatbot automation
+            > result: inquiry response time 3 min to under 1 min
+[2026-05-20] task: automate inventory sync, 1000+ sku client
+            > result: ~1 hr/day of manual updates removed
+[2026-06-02] task: build 3 portals (member, staff, management)
+            > scoped at: 2 to 3 months, typical
+            > actual: 1 to 2 weeks, each
+[2026-06-15] ongoing: 3-portal e-commerce build (staff, driver, management)
+            client: alcoholic beverage distributor
 
-<br/><br/>
+[2026-02-01] job started: gohighlevel platform engineer (intern)
+[2026-04-30] job ended: promoted
+            > note: qa, audits, training docs written outside scope
+            > those docs are still in production use
+```
 
-<sub><b>TOOLS & DEPLOY</b></sub>
-<br/>
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
-![WordPress](https://img.shields.io/badge/WordPress-161B22?style=flat-square&logo=wordpress&logoColor=21759B)
-![Railway](https://img.shields.io/badge/Railway-161B22?style=flat-square&logo=railway&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37)
-![Claude Code](https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=anthropic&logoColor=D97757)
+</details>
 
-<br/><br/>
+<details>
+<summary><code>kylie@dev:~$ cat /var/log/projects.log</code></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CHEVR0NN&hide_border=true&background=00000000&stroke=8ECFF5&ring=8ECFF5&fire=8ECFF5&currStreakLabel=8ECFF5&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CHEVR0NN&hide_border=true&background=00000000&stroke=2C6E9E&ring=2C6E9E&fire=2C6E9E&currStreakLabel=2C6E9E&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=24292F" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHEVR0NN&hide_border=true&background=00000000&stroke=2C6E9E&ring=2C6E9E&fire=2C6E9E&currStreakLabel=2C6E9E&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=24292F" alt="Streak stats" height="150"/>
-</picture>
+```text
+project : nagamed
+type    : clinic search and booking platform
+stack   : react, react native, socket.io
+scope   : full frontend, web and mobile, one semester
 
-<br/><br/>
+project : pathfinding_thesis
+type    : 5-algorithm comparative study
+compared: dijkstra, a*, d*, d* lite, gbfs
+dataset : real city road network
+result  : a* most efficient
+```
 
-[clementeky@gmail.com](mailto:clementeky@gmail.com) · [LinkedIn](https://linkedin.com/in/kylie-clemente)
+</details>
 
-</div>
+```text
+kylie@dev:~$ ps aux | grep kylie
+
+pid 001  design_ideas.exe          status: running (refuses to terminate)
+pid 002  scope_of_project.exe      status: killed
+pid 003  original_estimate.exe     status: killed
+pid 004  wait_for_permission.exe   status: never started
+```
+
+```text
+kylie@dev:~$ netstat -o
+
+proto   local          remote               state
+mail    clementeky     gmail.com            open
+git     chevr0nn       github.com           open
+social  kylie-clemente linkedin.com         open
+```
+
+[mail](mailto:clementeky@gmail.com) · [git](https://github.com/CHEVR0NN) · [social](https://linkedin.com/in/kylie-clemente)
