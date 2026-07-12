@@ -1,8 +1,10 @@
-<div align="center">
-<sub><code>kylie_clemente</code> · <code>4 files</code> · <code>0 problems</code></sub>
-</div>
-
-<br/>
+```text
+kylie_clemente/
+├── whoami.ts
+├── stack.json
+├── ps_aux.log
+└── contact.env
+```
 
 <details>
 <summary><code>whoami.ts</code></summary>
@@ -56,6 +58,10 @@ LINKEDIN=https://linkedin.com/in/kylie-clemente
 ```
 
 </details>
+
+<br/>
+
+![main](https://img.shields.io/badge/-main-2C6E9E?style=flat-square&logo=git&logoColor=white) ![UTF-8](https://img.shields.io/badge/-UTF--8-161B22?style=flat-square) ![LF](https://img.shields.io/badge/-LF-161B22?style=flat-square) ![0 problems](https://img.shields.io/badge/-0_problems-161B22?style=flat-square)
 
 <br/>
 
