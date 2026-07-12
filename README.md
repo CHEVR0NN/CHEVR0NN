@@ -1,3 +1,5 @@
+<sub><code>KYLIE_CLEMENTE.DEV</code> &nbsp;›&nbsp; <code>README.md</code></sub>
+
 ```text
 kylie_clemente/
 ├── stack.json
@@ -6,8 +8,12 @@ kylie_clemente/
 └── contact.env
 ```
 
+<kbd>Ctrl</kbd> <kbd>P</kbd> jump to file &nbsp;·&nbsp; <kbd>Ctrl</kbd> <kbd>`</kbd> open terminal
+
+<br/>
+
 <details open>
-<summary><code>stack.json</code></summary>
+<summary><code>stack.json</code> <img src="https://img.shields.io/badge/-JSON-161B22?style=flat-square" height="18"/></summary>
 
 ```json
 {
@@ -21,7 +27,7 @@ kylie_clemente/
 </details>
 
 <details>
-<summary><code>whoami.ts</code></summary>
+<summary><code>whoami.ts</code> <img src="https://img.shields.io/badge/-TS-161B22?style=flat-square&logo=typescript&logoColor=3178C6" height="18"/></summary>
 
 ```ts
 const whoami = {
@@ -35,7 +41,7 @@ const whoami = {
 </details>
 
 <details>
-<summary><code>ps_aux.log</code></summary>
+<summary><code>ps_aux.log</code> <img src="https://img.shields.io/badge/-LOG-161B22?style=flat-square" height="18"/></summary>
 
 ```text
 pid 001  designing.exe            running
@@ -49,7 +55,7 @@ pid 006  sleep.exe                suspended
 </details>
 
 <details>
-<summary><code>contact.env</code></summary>
+<summary><code>contact.env</code> <img src="https://img.shields.io/badge/-ENV-161B22?style=flat-square" height="18"/></summary>
 
 ```ini
 MAIL=clementeky@gmail.com
